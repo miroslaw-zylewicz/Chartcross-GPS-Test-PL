@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Przejdź na stronę główną</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaż wszystko</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Funkcyjny+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacja</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Szukaj zapytania</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij za pomocą</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij za pomocą %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_copyright">©Chartcross Ltd 2010-2023</string>
+    <string name="app_database_version" formatted="false">Wersja bazy danych %d.%d</string>
+    <string name="app_desc">Aplikacja GPS Test</string>
+    <string name="app_facebook"><b>www.facebook.com/gpstest</b></string>
+    <string name="app_name">GPS Test</string>
+    <string name="app_version">Wersja %s</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_clear">Wyczyść</string>
+    <string name="button_close">Zamknij</string>
+    <string name="button_delete">Usuń</string>
+    <string name="button_location_services">Usługi lokalizacji</string>
+    <string name="button_loyalty_upgrade">Uaktualnij teraz</string>
+    <string name="button_save">Zapisz</string>
+    <string name="button_start_trial">Rozpocznij darmowy okres próbny</string>
+    <string name="button_stop">Zatrzymaj</string>
+    <string name="caption_accuracy">Dokładność</string>
+    <string name="caption_accuracy_feet">Dokładność (± ft)</string>
+    <string name="caption_accuracy_meters">Dokładność (± m)</string>
+    <string name="caption_altitude">Wysokość</string>
+    <string name="caption_altitude_feet">Wysokość (ft)</string>
+    <string name="caption_altitude_meters">Wysokość (m)</string>
+    <string name="caption_bearing">Namiar</string>
+    <string name="caption_bearing_degrees_magnetic">Namiar (° M)</string>
+    <string name="caption_bearing_degrees_true">Namiar (° T)</string>
+    <string name="caption_bearing_magnetic">Namiar (M)</string>
+    <string name="caption_bearing_mils_magnetic">Namiar (mile M)</string>
+    <string name="caption_bearing_mils_true">Namiar (mile P)</string>
+    <string name="caption_bearing_true">Namiar (T)</string>
+    <string name="caption_date">Data</string>
+    <string name="caption_date_local">Data lokalna</string>
+    <string name="caption_date_saved">Data zapisu</string>
+    <string name="caption_date_utc">Data UTC</string>
+    <string name="caption_datum">Pozycja odniesienia</string>
+    <string name="caption_declination_degs_e">Deklinacja (° W)</string>
+    <string name="caption_declination_degs_w">Deklinacja (° Z)</string>
+    <string name="caption_declination_mils_e">Deklinacja (mile W)</string>
+    <string name="caption_declination_mils_w">Deklinacja (mile Z)</string>
+    <string name="caption_dist_to_go">Do pokonania</string>
+    <string name="caption_dist_to_go_feet">Do pokonania (ft)</string>
+    <string name="caption_dist_to_go_km">Do pokonania (km)</string>
+    <string name="caption_dist_to_go_meters">Do pokonania (m)</string>
+    <string name="caption_dist_to_go_miles">Do pokonania (mi)</string>
+    <string name="caption_dist_to_go_nm">Do pokonania (nm)</string>
+    <string name="caption_elevation">Wysokość</string>
+    <string name="caption_elevation_feet">Wysokość (ft)</string>
+    <string name="caption_elevation_meters">Wysokość (m)</string>
+    <string name="caption_first_fix_time">Pierwszy Fix</string>
+    <string name="caption_gnss_error">Błąd</string>
+    <string name="caption_gnss_fix_2d">2D Fix</string>
+    <string name="caption_gnss_fix_3d">3D Fix</string>
+    <string name="caption_gnss_no_fix">Brak Fix</string>
+    <string name="caption_gnss_none">Żaden</string>
+    <string name="caption_gnss_off">Wył.</string>
+    <string name="caption_gnss_status">Stan GNSS</string>
+    <string name="caption_good">Dobry</string>
+    <string name="caption_grid">Siatka</string>
+    <string name="caption_heading">Kierunek</string>
+    <string name="caption_heading_degrees_magnetic">Kierunek (° M)</string>
+    <string name="caption_heading_degrees_true">Kierunek (° P)</string>
+    <string name="caption_heading_magnetic">Kierunek (M)</string>
+    <string name="caption_heading_mils_magnetic">Kierunek (mile M)</string>
+    <string name="caption_heading_mils_true">Kierunek (mile P)</string>
+    <string name="caption_heading_true">Kierunek (P)</string>
+    <string name="caption_high">Wysoki</string>
+    <string name="caption_latitude">Szerokość geograficzna</string>
+    <string name="caption_latitude_wgs84">Szerokość geograficzna (WGS84)</string>
+    <string name="caption_local">Lokalny</string>
+    <string name="caption_longitude">Długość geograficzna</string>
+    <string name="caption_longitude_wgs84">Długość geograficzna (WGS84)</string>
+    <string name="caption_low">Niski</string>
+    <string name="caption_magnetic">magnetyczny</string>
+    <string name="caption_magnetic_accuracy">Dokładność magnetyczna</string>
+    <string name="caption_medium">Średni</string>
+    <string name="caption_name">Nazwa</string>
+    <string name="caption_not_in_use">Nieużywany</string>
+    <string name="caption_notes">Notatki</string>
+    <string name="caption_orientation">Orientacja</string>
+    <string name="caption_position">Położenie</string>
+    <string name="caption_reciprocal_heading_degrees_magnetic">Przeciwny kierunek (° M)</string>
+    <string name="caption_reciprocal_heading_degrees_true">Przeciwny kierunek (° P)</string>
+    <string name="caption_reciprocal_heading_mils_magnetic">Przeciwny kierunek (mile M)</string>
+    <string name="caption_reciprocal_heading_mils_true">Przeciwny kierunek (mile P)</string>
+    <string name="caption_recommended">Zalecana</string>
+    <string name="caption_required">Wymagana</string>
+    <string name="caption_sats_in_use">Używane</string>
+    <string name="caption_sats_in_view">Widoczne</string>
+    <string name="caption_saved_on">Saved On</string>
+    <string name="caption_sensor_none">Brak czujnika</string>
+    <string name="caption_speed">Prędkość</string>
+    <string name="caption_speed_kmh">Prędkość (km/h)</string>
+    <string name="caption_speed_knots">Prędkość (węzły)</string>
+    <string name="caption_speed_mph">Prędkość (mph)</string>
+    <string name="caption_sunrise">Wschód słońca</string>
+    <string name="caption_sunset">Zachód słońca</string>
+    <string name="caption_time">Czas</string>
+    <string name="caption_time_local">Czas lokalny</string>
+    <string name="caption_time_saved">Czas zapisu</string>
+    <string name="caption_time_since_start">Czas od rozpoczęcia</string>
+    <string name="caption_time_utc">Czas UTC</string>
+    <string name="caption_true">prawdziwy</string>
+    <string name="caption_units_degrees">stopnie</string>
+    <string name="caption_units_feet_long">stopy</string>
+    <string name="caption_units_feet_short">ft</string>
+    <string name="caption_units_inhg">w Hg</string>
+    <string name="caption_units_kilometers_long">kilometry</string>
+    <string name="caption_units_kilometers_short">km</string>
+    <string name="caption_units_kmh">km/h</string>
+    <string name="caption_units_knots">węzły</string>
+    <string name="caption_units_mbar">mBary</string>
+    <string name="caption_units_meters_long">metry</string>
+    <string name="caption_units_meters_short">m</string>
+    <string name="caption_units_miles_long">mile</string>
+    <string name="caption_units_miles_short">mi</string>
+    <string name="caption_units_mils">mils</string>
+    <string name="caption_units_mmhg">mm Hg</string>
+    <string name="caption_units_mph">mph</string>
+    <string name="caption_units_nautical_miles_long">mile morskie</string>
+    <string name="caption_units_nautical_miles_short">nm</string>
+    <string name="caption_units_yards_long">jardy</string>
+    <string name="caption_units_yards_short">yd</string>
+    <string name="caption_unreliable">Niemiarodajny</string>
+    <string name="caption_utc">UTC</string>
+    <string name="caption_world_map">Mapa świata</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ma problem z usługami Google Play. Spróbuj ponownie.</string>
+    <string name="default_web_client_id">485189067063-4af666g72qkvchaer4qq1fcts2bba6dg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url">https://gps-test-d32e7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">485189067063</string>
+    <string name="google_api_key">AIzaSyAvQyvm-waPjgNra7QaV363AG29Y340Fm8</string>
+    <string name="google_app_id">1:485189067063:android:d02a0477cd6b443d</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAvQyvm-waPjgNra7QaV363AG29Y340Fm8</string>
+    <string name="google_storage_bucket">gps-test-d32e7.appspot.com</string>
+    <string name="lookup_accuracy_units_imperial">Imperialne (ft)</string>
+    <string name="lookup_accuracy_units_metric">Metryczne (m)</string>
+    <string name="lookup_altimeter_caption">Wysokościomierz</string>
+    <string name="lookup_altimeter_description">Ten widżet pokazuje aktualną wysokość za pomocą ruchomej wskazówki</string>
+    <string name="lookup_altitude_description">Ten widżet pokazuje aktualną wysokość</string>
+    <string name="lookup_altitude_dial_caption">Tarcza wysokości</string>
+    <string name="lookup_altitude_panel_caption">Panel wysokości</string>
+    <string name="lookup_altitude_units_imperial">Imperialne (ft)</string>
+    <string name="lookup_altitude_units_metric">Metryczne (m)</string>
+    <string name="lookup_analog_compass_caption">Kompas analogowy</string>
+    <string name="lookup_analog_compass_description">Ten kompas pokazuje aktualny kierunek za pomocą ruchomej wskazówki</string>
+    <string name="lookup_angle_units_degrees">Stopnie</string>
+    <string name="lookup_angle_units_mils">Mile</string>
+    <string name="lookup_classic_compass_caption">Kompas klasyczny</string>
+    <string name="lookup_classic_compass_description">Ten kompas pokazuje północ za pomocą ruchomej wskazówki</string>
+    <string name="lookup_compass_sensor_accelerometer">Akcelerometr</string>
+    <string name="lookup_compass_sensor_automatic">Automatyczny</string>
+    <string name="lookup_compass_sensor_rotation_vector">Wektor obrotu</string>
+    <string name="lookup_date_format_dd_mm_yy">DD-MM-RR</string>
+    <string name="lookup_date_format_dd_mmm_yy">DD-MMM-RR</string>
+    <string name="lookup_date_format_mm_dd_yy">MM-DD-RR</string>
+    <string name="lookup_date_format_yy_mm_dd">RR-MM-DD</string>
+    <string name="lookup_digital_compass_caption">Kompas cyfrowy</string>
+    <string name="lookup_digital_compass_description">Ten kompas pokazuje aktualny kierunek za pomocą ruchomej tarczy</string>
+    <string name="lookup_direction_to_pointer_caption">Wskaźnik kierunku</string>
+    <string name="lookup_direction_to_pointer_description">Ta tarcza nawigacyjna pokazuje kierunek do miejsca docelowego</string>
+    <string name="lookup_direction_to_radar_caption">Radar kierunku</string>
+    <string name="lookup_direction_to_radar_description">Ta tarcza nawigacyjna pokazuje kierunek i odległość do miejsca docelowego</string>
+    <string name="lookup_distance_to_target_caption">Panel odległości do pokonania </string>
+    <string name="lookup_distance_to_target_description">Ten widżet pokazuje odległość do miejsca docelowego</string>
+    <string name="lookup_distance_units_imperial">Imperialne (mi,ft)</string>
+    <string name="lookup_distance_units_metric">Metryczne (km,m)</string>
+    <string name="lookup_distance_units_nautical_imperial">Mile morskie (nm,ft)</string>
+    <string name="lookup_distance_units_nautical_metric">Mile morskie (nm,m)</string>
+    <string name="lookup_heading_description">Ten widżet pokazuje aktualny kierunek</string>
+    <string name="lookup_heading_device_auto">Automatyczne</string>
+    <string name="lookup_heading_device_compass">Kompas</string>
+    <string name="lookup_heading_device_gnss">GNSS</string>
+    <string name="lookup_heading_dial_caption">Tarcza kierunku</string>
+    <string name="lookup_heading_panel_caption">Panel kierunku</string>
+    <string name="lookup_local_date_description">Ten widżet pokazuje aktualną datę lokalną</string>
+    <string name="lookup_local_date_panel_caption">Panel daty lokalnej</string>
+    <string name="lookup_local_time_description">Ten widżet pokazuje aktualny czas lokalny</string>
+    <string name="lookup_local_time_panel_caption">Panel czasu lokalnego</string>
+    <string name="lookup_north_reference_magnetic">Magnetyczny</string>
+    <string name="lookup_north_reference_true">Prawdziwy</string>
+    <string name="lookup_orientation_description">Ten widżet pokazuje bieżącą orientację w jednostkach kardynalnych</string>
+    <string name="lookup_orientation_dial_caption">Tarcza orientacyji</string>
+    <string name="lookup_orientation_panel_caption">Panel orientacji</string>
+    <string name="lookup_position_description">Ten widżet pokazuje twoje aktualne położenie</string>
+    <string name="lookup_position_format_ch1903">CH1903</string>
+    <string name="lookup_position_format_deg">DD.DDDDDD°</string>
+    <string name="lookup_position_format_deg_min">"DD°MM.MMMM'"</string>
+    <string name="lookup_position_format_deg_min_sec">"DD°MM'SS.SSS\""</string>
+    <string name="lookup_position_format_lat_lon">długość/szerokość</string>
+    <string name="lookup_position_format_maidenhead">Maidenhead</string>
+    <string name="lookup_position_format_mgrs">MGRS</string>
+    <string name="lookup_position_format_osgb">OSGB</string>
+    <string name="lookup_position_format_osgb_en">OSGB (W, PŁ)</string>
+    <string name="lookup_position_format_osgb_gref">OSGB (Grid Ref)</string>
+    <string name="lookup_position_format_osni">OSNI</string>
+    <string name="lookup_position_format_osni_en">OSNI (W, PŁ)</string>
+    <string name="lookup_position_format_osni_gref">OSNI (Grid Ref)</string>
+    <string name="lookup_position_format_usng">USNG</string>
+    <string name="lookup_position_format_utm">UTM</string>
+    <string name="lookup_position_panel_caption">Panel położenia</string>
+    <string name="lookup_position_precision_100k">100 kilometrów</string>
+    <string name="lookup_position_precision_100m">100 metrów</string>
+    <string name="lookup_position_precision_10k">10 kilometrów</string>
+    <string name="lookup_position_precision_10m">10 metrów</string>
+    <string name="lookup_position_precision_1k">1 kilometr</string>
+    <string name="lookup_position_precision_1m">1 metr</string>
+    <string name="lookup_position_precision_na">N/A</string>
+    <string name="lookup_press_behaviour_disabled">Wyłączone</string>
+    <string name="lookup_press_behaviour_fullscreen">Pokaż pole w trybie pełnoekranowym</string>
+    <string name="lookup_press_behaviour_settings">Pokaż ustawienia</string>
+    <string name="lookup_satellites_beidou">BEIDOU</string>
+    <string name="lookup_satellites_galileo">GALILEO</string>
+    <string name="lookup_satellites_glonass">GLONASS</string>
+    <string name="lookup_satellites_gps">GPS</string>
+    <string name="lookup_satellites_qzss">QZSS</string>
+    <string name="lookup_satellites_sbas">SBAS</string>
+    <string name="lookup_satellites_unknown">NIEZNANE</string>
+    <string name="lookup_screen_orientation_auto">Automatyczna</string>
+    <string name="lookup_screen_orientation_landscape">Krajobraz</string>
+    <string name="lookup_screen_orientation_portrait">Portret</string>
+    <string name="lookup_screen_orientation_reverse_landscape">Odwrócony krajobraz</string>
+    <string name="lookup_screen_orientation_reverse_portrait">Odwrócony portret</string>
+    <string name="lookup_share_address">Najbliższy adres</string>
+    <string name="lookup_share_exported_locations">Plik lokalizacji</string>
+    <string name="lookup_share_google_map">Lokalizację Google Maps</string>
+    <string name="lookup_share_gps_test">Aplikację znajomym</string>
+    <string name="lookup_share_location">Współrzędne geograficzne</string>
+    <string name="lookup_share_open_street_map">Lokalizację Open Street Map</string>
+    <string name="lookup_share_position">Położenie</string>
+    <string name="lookup_share_yandex_map">Lokalizację Yandex Maps</string>
+    <string name="lookup_speed_description">Ten widżet pokazuje prędkość nad ziemią</string>
+    <string name="lookup_speed_dial_caption">Tarcza prędkości</string>
+    <string name="lookup_speed_limit_10">Maksymalna prędkość 10</string>
+    <string name="lookup_speed_limit_100">Maksymalna prędkość 100</string>
+    <string name="lookup_speed_limit_150">Maksymalna prędkość 150</string>
+    <string name="lookup_speed_limit_20">Maksymalna prędkość 20</string>
+    <string name="lookup_speed_limit_200">Maksymalna prędkość 200</string>
+    <string name="lookup_speed_limit_250">Maksymalna prędkość 250</string>
+    <string name="lookup_speed_limit_30">Maksymalna prędkość 30</string>
+    <string name="lookup_speed_limit_300">Maksymalna prędkość 300</string>
+    <string name="lookup_speed_limit_40">Maksymalna prędkość 40</string>
+    <string name="lookup_speed_limit_50">Maksymalna prędkość 50</string>
+    <string name="lookup_speed_limit_600">Maksymalna prędkość 600</string>
+    <string name="lookup_speed_panel_caption">Panel prędkości</string>
+    <string name="lookup_speed_units_imperial">Imperialne (mph)</string>
+    <string name="lookup_speed_units_metric">Metryczne (km/h)</string>
+    <string name="lookup_speed_units_nautical">Węzły morskie (knots)</string>
+    <string name="lookup_speedometer_caption">Prędkościomierz</string>
+    <string name="lookup_speedometer_description">Ten prędkościomierz pokazuje prędkość nad ziemią za pomocą ruchomej wskazówki</string>
+    <string name="lookup_theme_amber">Bursztynowy</string>
+    <string name="lookup_theme_blue">Niebieski</string>
+    <string name="lookup_theme_classic">Klasyczny</string>
+    <string name="lookup_theme_cyan">Niebieskozielony</string>
+    <string name="lookup_theme_dark">Ciemny</string>
+    <string name="lookup_theme_green">Zielony</string>
+    <string name="lookup_theme_light">Jasny</string>
+    <string name="lookup_theme_orange">Pomarańczowy</string>
+    <string name="lookup_theme_red">Czerwony</string>
+    <string name="lookup_theme_white">Biały</string>
+    <string name="lookup_time_format_hh_mm">GG:MM</string>
+    <string name="lookup_time_format_hh_mm_12">GG:MM 12h</string>
+    <string name="lookup_time_format_hh_mm_24">GG:MM 24h</string>
+    <string name="lookup_time_format_hh_mm_ss">GG:MM:SS</string>
+    <string name="lookup_time_format_hh_mm_ss_12">GG:MM:SS 12h</string>
+    <string name="lookup_time_format_hh_mm_ss_24">GG:MM:SS 24h</string>
+    <string name="lookup_time_since_start_description">Ten widżet pokazuje czas, jaki upłynął od uruchomienia nawigacji</string>
+    <string name="lookup_time_since_start_panel_caption">Panel czasu od uruchomienia</string>
+    <string name="lookup_utc_date_description">Ten widżet pokazuje aktualną datę UTC</string>
+    <string name="lookup_utc_date_panel_caption">Panel daty UTC</string>
+    <string name="lookup_utc_time_description">Ten widżet pokazuje aktualny czas UTC</string>
+    <string name="lookup_utc_time_panel_caption">Panel czasu UTC</string>
+    <string name="menu_item_about">O aplikacji</string>
+    <string name="menu_item_agps">AGPS</string>
+    <string name="menu_item_calibration">Kalibracja</string>
+    <string name="menu_item_clear_agps">Tylko wyczyść</string>
+    <string name="menu_item_clear_update_agps">Wyczyść i zaktualizuj</string>
+    <string name="menu_item_delete_locations">Usuń lokalizacje</string>
+    <string name="menu_item_exit_hud_mode">Wyjdź z trybu HUD</string>
+    <string name="menu_item_export">Eksportuj</string>
+    <string name="menu_item_export_to_gpx">Do pliku GPX</string>
+    <string name="menu_item_export_to_kml">Do pliku KML</string>
+    <string name="menu_item_gnss">GNSS</string>
+    <string name="menu_item_help">Pomoc</string>
+    <string name="menu_item_import">Importuj</string>
+    <string name="menu_item_import_legacy_database">Importuj starszą bazę danych</string>
+    <string name="menu_item_import_locations">Importuj lokalizacje</string>
+    <string name="menu_item_location_services">Usługi lokalizacji</string>
+    <string name="menu_item_navigate_to">Nawiguj do</string>
+    <string name="menu_item_privacy_policy">Polityka prywatności</string>
+    <string name="menu_item_satellite_filter">Filtruj satelity</string>
+    <string name="menu_item_saved_locations">Zapisane lokalizacje</string>
+    <string name="menu_item_screen_editor">Edytuj ekran</string>
+    <string name="menu_item_settings">Ustawienia</string>
+    <string name="menu_item_share_location">Udostępnij lokalizację</string>
+    <string name="menu_item_show_on_map">Pokaż na mapie</string>
+    <string name="menu_item_sort_by_date">Według daty modyfikacji</string>
+    <string name="menu_item_sort_by_distance">Według odległości</string>
+    <string name="menu_item_sort_by_name">Według nazwy</string>
+    <string name="menu_item_start_hud_mode">Uruchom tryb HUD</string>
+    <string name="menu_item_update_agps">Tylko zaktualizuj</string>
+    <string name="menu_item_upgrade">Zaktualizuj</string>
+    <string name="menu_item_upgrade_sale">Twoja oferta aktualizacji</string>
+    <string name="month_april_short">KWI</string>
+    <string name="month_august_short">SIE</string>
+    <string name="month_december_short">GRU</string>
+    <string name="month_february_short">LUT</string>
+    <string name="month_january_short">STY</string>
+    <string name="month_july_short">LIP</string>
+    <string name="month_june_short">CZE</string>
+    <string name="month_march_short">MAR</string>
+    <string name="month_may_short">MAJ</string>
+    <string name="month_november_short">LIS</string>
+    <string name="month_october_short">PAŹ</string>
+    <string name="month_september_short">WRZ</string>
+    <string name="msg_acknowledgement">Funkcje konwersji współrzędnych w tym produkcie zostały opracowane przy użyciu kodu pochodzącego z GEOTRANS, produktu Narodowej Agencji Wywiadu Geoprzestrzennego (NGA) i Centrum Badań i Rozwoju Inżynieryjnego Armii Stanów Zjednoczonych.</string>
+    <string name="msg_agps_request_failed">AGPS request failed</string>
+    <string name="msg_calibration_guide_001">Skalibruj urządzenie, wykonując nim ruchy przypominające ósemkę, jak pokazano poniżej, aż stan kalibracji będzie dobry.</string>
+    <string name="msg_calibration_guide_002">Unikaj metalowych lub magnetycznych przedmiotów w pobliżu urządzenia, ponieważ może to spowodować niestabilność czujnika magnetycznego.</string>
+    <string name="msg_clear_agps_data">Spowoduje to usunięcie wszystkich danych wspomagających AGPS z telefonu. Odświeżenie danych może zająć trochę czasu, a do tego czasu ustalanie pozycji GPS może być wolniejsze.</string>
+    <string name="msg_clear_agps_request">Clear AGPS request made</string>
+    <string name="msg_clear_update_agps_request">Clear and Update AGPS request made</string>
+    <string name="msg_delete_locations">Wszystkie lokalizacje w tym folderze zostaną usunięte</string>
+    <string name="msg_disclaimer">Chartcross Limited zrzeka się wszelkiej odpowiedzialności, która może wynikać w jakikolwiek sposób z korzystania z tego oprogramowania. Dokładność danych wyświetlanych przez to oprogramowanie jest tak dobra, jak dokładność GPS i czujników w urządzeniu, na którym to oprogramowanie jest zainstalowane. Chartcross Limited nie może zagwarantować ani ponosić odpowiedzialności za dokładność wyświetlanych danych.</string>
+    <string name="msg_google_maps_error">Nie można uruchomić Google Maps</string>
+    <string name="msg_gps_status_2d_fix">Odbiornik GNSS jest włączony i ma ustaloną dwuwymiarową lokalizację (fix), wysokości nie można dokładnie określić (tylko x,y). Zwykle jest to spowodowane słabym sygnałem GPS, na przykład pod osłoną drzew lub wewnątrz budynku.</string>
+    <string name="msg_gps_status_3d_fix">Odbiornik GNSS jest włączony i ma ustaloną trójwymiarową lokalizację (fix), obejmującą wysokość (x, y, z).</string>
+    <string name="msg_gps_status_error">The GNSS receiver has an error. This could be because Fine Location permission has not been granted for this app.</string>
+    <string name="msg_gps_status_no_fix">"The GNSS receiver is turned on but the signal is not good enough to get a valid location (fix). If this state continues for a long time try turning the device off and then go outside where you have a clear view of the sky. Restart the device and rerun this app, also try selecting the 'AGPS->Clear and update' menu option to download new GPS assistance data."</string>
+    <string name="msg_gps_status_none">To urządzenie nie ma wbudowanego odbiornika GNSS</string>
+    <string name="msg_gps_status_off">Odbiornik GNSS jest wyłączony. Przejdź do usług lokalizacji, aby włączyć odbiornik GNSS.</string>
+    <string name="msg_help_001">"This app displays information from your device's GPS receiver and other sensors. It shows the position and received signal strength of each satellite within view, as well as your current location and time.
+
+Tap on one of the five fields at the bottom (or right in landscape) of each screen to change views.
+
+The five fields at the top of each screen (or left side in landscape) are buttons and have the following actions, from left to right (or bottom to top in landscape): -
+
+"<b>Przełączaj między trybem dziennym i nocnym.</b>"
+"<b>Zapisz swoją lokalizację.</b>"
+"<b>Uruchom lub zatrzymaj nawigację.</b>"
+"<b>Udostępnij swoją lokalizację.</b>"
+"<b>Wyświetl menu.</b>"
+
+Tapping any other field on a screen displays a settings dialog for that field if it has one."</string>
+    <string name="msg_help_002">This view displays satellite signal information. The <b>GPS Status</b>" field shows the state of the GPS receiver. You can tap on this field to display a help dialog, showing the current state of the GPS signal. This dialog has a location services button to turn the GPS on or off. GPS Status can have one of the following values: -
+
+"<b>Błąd GPS</b>" Błąd z GPS może być związany z uprawnieniami.
+"<b>Brak GPS</b>" Urządzenie nie jest wyposażone w GPS.
+"<b>GPS Wył.</b>" GPS jest wyłączony.
+"<b>No Fix</b>" The GPS has no location fix.
+"<b>2D Fix</b>" The GPS has a partial location fix.
+"<b>3D Fix</b>" The GPS has a full location fix.
+
+The "<b>Accuracy</b>" field shows the accuracy of the GPS location, the smaller the number the better.
+
+Below this field is the satellite signal graph, it shows a bar for each satellite in view. The number beneath the bar is the satellite number (if the number colours are inverted the satellite is used in calculating the positional fix) and the number above it is the signal to noise ratio in decibels. you can horizontally scroll the graph to show more satellites.In the top corners of the graph are two fields showing how many satellites the GPS can see and how many are being used to calculate your position.
+
+Below the satellite signal graph is a legend for the SNR colour. The colours represent signal to noise ratio ranges. The satellite signals can have an SNR value between 0 and 99dB, 0 is worst. Normally the SNR will never get above 50 and anything above 40 is really good.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Usługi lokalizacji</b>" Pokaż ekran usług lokalizacyjnych, aby włączyć lub wyłączyć GPS.
+"<b>AGPS->Tylko wyczyść</b>" Wyczyść dane wspomagające AGPS ze swojego telefonu. Zrób to, jeśli GPS potrzebuje dużo czasu, aby ustalić pozycję.
+"<b>AGPS->Tylko zaktualizuj</b>" Poproś o pobranie danych wspomagających AGPS. Dane wspomagające AGPS z czasem mogą stać się nieaktualne. Prośba o aktualizację spowoduje pobranie najnowszej wersji.
+"<b>AGPS->Wyczyść i zaktualizuj</b>" Poproś o jednoczesne wyczyszczenie i aktualizację AGPS.
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_003">"This view displays satellite positions. The large circular field on this screen shows a view of the sky overhead (sky view), the outside of the circle represents the horizon and the centre represents the sky directly above your head. The sky view rotates to the correct position using the internal compass. The satellites in view of the GPS receiver are drawn on the sky view if the symbol is round the satellite is a GPS satellite and if the symbol is a triangle the satellite is a GLONASS satellite. Each satellite symbol has the satellite number shown below it and is drawn in a colour that represents the satellite signal to noise ratio. The signal to noise ratios and corresponding colour ranges are shown on the SNR legend, below the sky view.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Usługi lokalizacji</b>" Pokaż ekran usług lokalizacyjnych, aby włączyć lub wyłączyć GPS.
+"<b>AGPS->Wyczyść</b>" Wyczyść dane wspomagające AGPS ze swojego telefonu. Zrób to, jeśli GPS potrzebuje dużo czasu, aby ustalić pozycję.
+"<b>AGPS->Zaktualizuj</b>" Poproś o pobranie danych wspomagających AGPS. Dane wspomagające AGPS z czasem mogą stać się nieaktualne. Prośba o aktualizację spowoduje pobranie najnowszej wersji.
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_004">"This view displays your position on the earth. The top field shows the coordinates of your current location in the selected coordinate grid. The bottom field is a map of the world, on which your current position is shown by a red marker. The transition between day and night and the location of the sun relative to your current location is also drawn on the map.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_005">"This view displays a compass when not in navigation mode.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Edytuj ekran</b>" Przełącz do trybu edytora ekranu, aby zmienić typ kompasu.
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_006">"GPS Test Plus supports simple navigation. You can save your current location or enter a new location and then navigate to it. The top two fields and the compass field are customisable.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Edytuj ekran</b>" Przełącz do trybu edytora ekranu, aby zmienić typy pól ekranu.
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_007">"This view displays a number of customisable fields and widgets.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Edytuj ekran</b>" Przełącz do trybu edytora ekranu, aby zmienić typy i układ pól ekranu.
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_008">"This view displays various time and date fields. The top two fields show the time and date from your GPS receiver in GPS Time. This is based on international atomic time and is the same throughout the world. The next two fields show the time and date local to your current location. The next two fields show the sunrise and sunset times at your current location. The last two fields show the moon phase at you location and a daylight clock.
+
+Ten widok posiada następujące opcje menu: -
+
+"<b>Udostępnij</b>" Udostępnij swoją lokalizację innym osobom.
+"<b>Ustawienia</b>" Wyświetl okno ustawień ogólnych.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_help_009">"This screen displays a list of your saved locations. Tapping a list item displays the location details screen. Press and hold a list item to select it, the item's icon is replaced with a tick. When items are selected the toolbar changes and if only one item is selected you can edit, delete, share or export the item. If more than one item is selected you can only delete, share or export them.
+
+Ten widok posiada następujące opcje menu, gdy nie zaznaczono żadnych elementów: -
+
+"<b>Usuń lokalizacje</b>" Usuń wszystkie zapisane lokalizacje z bazy danych.
+"<b>Eksportuj->do plików GPX</b>" Eksportuj zapisane lokalizacje do pliku w formacie GPX.
+"<b>Eksportuj->do plików KML</b>" Eksportuj zapisane lokalizacje do pliku w formacie KML.
+"<b>Pomoc</b> Wyświetl ten ekran pomocy.</string>
+    <string name="msg_import_cancelled">Import anulowany (przetworzono %d rekordów)</string>
+    <string name="msg_load_video_failed">Nie udało się załadować filmu. Spróbuj później.</string>
+    <string name="msg_locations_exported" formatted="false">%d lokalizację(-e) wyeksportowano do %s/%s</string>
+    <string name="msg_locations_imported" formatted="false">%d lokalizację(-e) zaimportowano do %s</string>
+    <string name="msg_loyalty_upgrade">Jako osobiste podziękowanie za bycie tak lojalnym użytkownikiem, mamy przyjemność zaoferować ci zniżkę na aktualizację do wersji premium, która odblokowuje wszystkie funkcje. Spiesz się, ta oferta jest ważna tylko przez krótki czas.</string>
+    <string name="msg_no_address">Nie można znaleźć adresu</string>
+    <string name="msg_no_import_files">W tym folderze nie ma plików do zaimportowania. Skopiuj pliki do folderu pamięci wewnętrznej Android/data/com.chartcross.gpstest/files i spróbuj ponownie.</string>
+    <string name="msg_no_location_records">W tym folderze nie ma zapisanych lokalizacji. Naciśnij przycisk + na pasku narzędzi, aby dodać nową lokalizację.</string>
+    <string name="msg_no_locations_to_export">W tym folderze nie ma lokalizacji do wyeksportowania.</string>
+    <string name="msg_no_navigation_records">W tym folderze nie ma zapisanych lokalizacji, do których można nawigować.</string>
+    <string name="msg_one_record_deleted">1 wpis został usunięty</string>
+    <string name="msg_records_deleted">%d wpisy zostały usunięte</string>
+    <string name="msg_safety">Jeśli zamierzasz korzystać z tego oprogramowania w pojeździe, pamiętaj o bezpieczeństwie. Upewnij się, że urządzenie zostało prawidłowo zamontowane. Przed wyruszeniem w podróż uruchom program i wprowadź zmiany w ustawieniach, schematach kolorów itp.</string>
+    <string name="msg_share_error">Błąd udostępniania lokalizacji</string>
+    <string name="msg_share_error_no_files">Nie ma plików GPX lub KML do udostępnienia</string>
+    <string name="msg_share_error_no_location">Nie można udostępnić, ponieważ nie otrzymano jeszcze danych o lokalizacji</string>
+    <string name="msg_share_template_app">"Sprawdź tę świetną aplikację
+https://play.google.com/store/apps/details?id=com.chartcross.gpstest"</string>
+    <string name="msg_share_template_google_maps" formatted="false">http://maps.google.com/maps?q=%.6f,%.6f</string>
+    <string name="msg_share_template_open_street_map" formatted="false">https://www.openstreetmap.org/?mlat=%.6f&amp;mlon=%.6f&amp;zoom=12&amp;layers=M</string>
+    <string name="msg_share_template_yandex_map" formatted="false">https://yandex.ru/maps/?pt=%.6f,%.6f&amp;z=12&amp;l=map</string>
+    <string name="msg_stop_navigation">Wszystkie dane nawigacyjne zostaną utracone</string>
+    <string name="msg_trial_change_widget">Korzystanie z tego widżetu to funkcja premium.</string>
+    <string name="msg_trial_ended">Twój bezpłatny okres próbny wygasł. Jako osobiste podziękowanie mamy przyjemność zaoferować ci zniżkę na aktualizację do wersji premium. Spiesz się, ta oferta jest ważna tylko przez krótki czas.</string>
+    <string name="msg_trial_hud_mode">Uruchomienie trybu HUD to funkcja premium.</string>
+    <string name="msg_trial_my_locations">Zarządzanie zapisanymi lokalizacjami to funkcja premium.</string>
+    <string name="msg_trial_navigation">Nawigacja „punkt do punktu” to funkcja premium.</string>
+    <string name="msg_trial_offer">Wypróbuj wszystkie funkcje premium przez %d godzin.</string>
+    <string name="msg_trial_save_Location">Zapisywanie bieżącej lokalizacji to funkcja premium.</string>
+    <string name="msg_trial_screen_layout">Zmiana na ten układ ekranu to funkcja premium.</string>
+    <string name="msg_trial_share_address">Udostępnianie najbliższego adresu to funkcja premium.</string>
+    <string name="msg_trial_share_exported_locations">Udostępnianie wyeksportowanych lokalizacji to funkcja premium.</string>
+    <string name="msg_trial_share_position">Udostępnianie sformatowanej aktualnej pozycji to funkcja premium.</string>
+    <string name="msg_trial_started">Wszystkie funkcje premium zostały odblokowane.</string>
+    <string name="msg_trial_upgrade">Twój bezpłatny okres próbny wygasł. Możesz dokonać aktualizacji, aby odblokować wszystkie funkcje premium.</string>
+    <string name="msg_unknown_file_format">Nie można zaimportować tego typu pliku.</string>
+    <string name="msg_update_agps_request">Złożono żądanie aktualizacji AGPS</string>
+    <string name="orientation_e">W</string>
+    <string name="orientation_ene">W PŁ W</string>
+    <string name="orientation_ese">W PD W</string>
+    <string name="orientation_n">PŁ</string>
+    <string name="orientation_ne">PŁ W</string>
+    <string name="orientation_nne">PŁ PŁ W</string>
+    <string name="orientation_nnw">PŁ PŁ Z</string>
+    <string name="orientation_nw">PŁ Z</string>
+    <string name="orientation_s">PD</string>
+    <string name="orientation_se">PD W</string>
+    <string name="orientation_sse">PD PD W</string>
+    <string name="orientation_ssw">PD PD Z</string>
+    <string name="orientation_sw">PD Z</string>
+    <string name="orientation_w">Z</string>
+    <string name="orientation_wnw">Z PŁ Z</string>
+    <string name="orientation_wsw">Z PD Z</string>
+    <string name="project_id">gps-test-d32e7</string>
+    <string name="property_accuracy_units_caption">Jednostki dokładności</string>
+    <string name="property_altitude_settings_caption">Ustawienia wysokości</string>
+    <string name="property_altitude_units_caption">Jednostki wysokości</string>
+    <string name="property_angle_units_caption">Jednostki kąta</string>
+    <string name="property_compass_sensor_caption">Czujnik kompasu</string>
+    <string name="property_date_format_caption">Format daty</string>
+    <string name="property_datum_caption">Pozycja odniesienia</string>
+    <string name="property_day_theme_caption">Motyw dzienny</string>
+    <string name="property_display_colour_caption">Kolor</string>
+    <string name="property_display_font_caption">Czcionka</string>
+    <string name="property_distance_settings_caption">Ustawienia odległości</string>
+    <string name="property_distance_units_caption">Jednostki odległości</string>
+    <string name="property_general_settings_caption">Ustawienia ogólne</string>
+    <string name="property_geoid_caption">Użyj Geoidy</string>
+    <string name="property_geoid_description">Zastosuj wartość geoidy w bieżącej lokalizacji do pomiaru wysokości</string>
+    <string name="property_heading_device_caption">Urządzenie kierunku</string>
+    <string name="property_heading_settings_caption">Ustawienia kierunku</string>
+    <string name="property_hide_status_bar_caption">Ukryj pasek stanu</string>
+    <string name="property_hide_status_bar_description">Przełącz tę aplikację w tryb pełnoekranowy poprzez ukrycie paska stanu</string>
+    <string name="property_hud_mode_caption">Tryb HUD</string>
+    <string name="property_hud_mode_description">Przełącz tę aplikację w tryb HUD</string>
+    <string name="property_keep_screen_on_caption">Utrzymuj włączony ekran</string>
+    <string name="property_keep_screen_on_description">Zapobiega wyłączaniu ekranu, gdy ta aplikacja jest aktywna</string>
+    <string name="property_language_caption">Język</string>
+    <string name="property_long_press_behaviour_caption">Długie naciśnięcie</string>
+    <string name="property_night_theme_caption">Motyw nocny</string>
+    <string name="property_north_reference_caption">Północny punkt odniesienia</string>
+    <string name="property_position_format_caption">Format</string>
+    <string name="property_position_precision_caption">Dokładność</string>
+    <string name="property_position_settings_caption">Ustawienia położenia</string>
+    <string name="property_position_single_line_caption">Pojedynczy wiersz</string>
+    <string name="property_position_single_line_description">Wyświetl pola położenia w jednym wierszu</string>
+    <string name="property_position_spacing_caption">Odstęp</string>
+    <string name="property_position_spacing_description">Wyświetl odstęp między polami położenia</string>
+    <string name="property_screen_orientation_caption">Orientacja ekranu</string>
+    <string name="property_short_press_behaviour_caption">Krótkie naciśnięcie</string>
+    <string name="property_show_decimal_caption">Pokaż liczby dziesiętne</string>
+    <string name="property_show_decimal_description">Wyświetl prędkość z dokładnością do jednego miejsca po przecinku</string>
+    <string name="property_small_decimals_caption">Małe liczby dziesiętne</string>
+    <string name="property_small_decimals_description">Pokaż małe liczby po przecinku</string>
+    <string name="property_speed_settings_caption">Ustawienia prędkości</string>
+    <string name="property_speed_units_caption">Jednostki prędkości</string>
+    <string name="property_speedometer_limit_caption">Limit prędkościomierza</string>
+    <string name="property_themes_and_colours_caption">Motywy i kolory</string>
+    <string name="property_time_date_settings_caption">Ustawienia czasu i daty</string>
+    <string name="property_time_format_caption">Format czasu</string>
+    <string name="property_timer_format_caption">Format czasomierza</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="sensor_accuracy_high">Wysoka</string>
+    <string name="sensor_accuracy_low">Niska</string>
+    <string name="sensor_accuracy_medium">Średnia</string>
+    <string name="sensor_accuracy_unreliable">Niemiarodajna</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_about">O aplikacji</string>
+    <string name="title_accelerometer">Akcelerometr</string>
+    <string name="title_accuracy_units">Jednostki dokładności</string>
+    <string name="title_acknowledgement">Podziękowania</string>
+    <string name="title_add_location">Dodaj lokalizację</string>
+    <string name="title_alignment">Alignment</string>
+    <string name="title_altitude_settings">Ustawienia wysokości</string>
+    <string name="title_altitude_units">Jednostki wysokości</string>
+    <string name="title_angle_units">Jednostki kąta</string>
+    <string name="title_calibration">Kalibracja</string>
+    <string name="title_calibration_guide">Przewodnik po kalibracji</string>
+    <string name="title_calibration_state">Stan kalibracji</string>
+    <string name="title_change_widget">Zmień widżet</string>
+    <string name="title_clear_agps_data">Wyczyścić dane AGPS?</string>
+    <string name="title_compass_sensor">Czujnik kompasu</string>
+    <string name="title_date_format">Format daty</string>
+    <string name="title_datum">Pozycja odniesienia</string>
+    <string name="title_day_theme">Motyw dzienny</string>
+    <string name="title_delete_locations">Usunąć lokalizacje?</string>
+    <string name="title_disclaimer">Zrzeczenie się odpowiedzialności</string>
+    <string name="title_display_colour">Kolor</string>
+    <string name="title_display_font">Czcionka</string>
+    <string name="title_distance_units">Jednostki odległości</string>
+    <string name="title_edit_location">Edytuj lokalizację</string>
+    <string name="title_export_locations">Eksportuj lokalizacje</string>
+    <string name="title_gps_status_2d_fix">Stan GNSS - 2D Fix</string>
+    <string name="title_gps_status_3d_fix">Stan GNSS - 3D Fix</string>
+    <string name="title_gps_status_error">Stan GNSS - Błąd</string>
+    <string name="title_gps_status_no_fix">Stan GNSS - Bez Fix</string>
+    <string name="title_gps_status_none">Stan GNSS - Brak</string>
+    <string name="title_gps_status_off">Stan GNSS - Wył.</string>
+    <string name="title_heading_device">Urządzenie kierunku</string>
+    <string name="title_heading_settings">Ustawienia kierunku</string>
+    <string name="title_help">Pomoc</string>
+    <string name="title_help_001">Wprowadzenie</string>
+    <string name="title_help_002">Ekran sygnału satelity</string>
+    <string name="title_help_003">Ekran położenia satelity</string>
+    <string name="title_help_004">Ekran położenia</string>
+    <string name="title_help_005">Ekran kompasu</string>
+    <string name="title_help_006">Ekran nawigacji</string>
+    <string name="title_help_007">Ekran pulpitu</string>
+    <string name="title_help_008">Ekran czasu</string>
+    <string name="title_help_009">Zapisane lokalizacje</string>
+    <string name="title_hud_mode">Tryb HUD</string>
+    <string name="title_import_locations">Importuj lokalizacje</string>
+    <string name="title_information">Informacje</string>
+    <string name="title_language">Język</string>
+    <string name="title_load_video_failed">Wczytywanie wideo nie powiodło się</string>
+    <string name="title_location">Lokalizacja</string>
+    <string name="title_location_files">Pliki lokalizacji</string>
+    <string name="title_long_press_behaviour">Długie naciśnięcie</string>
+    <string name="title_loyalty_upgrade">Aktualizacja lojalnościowa</string>
+    <string name="title_magnetic_field">Pole magnetyczne</string>
+    <string name="title_magnetometer">Magnetometr</string>
+    <string name="title_my_locations">Moje lokalizacje</string>
+    <string name="title_navigate_to">Nawiguj do</string>
+    <string name="title_night_theme">Motyw nocny</string>
+    <string name="title_north_reference">Północny punkt odniesienia</string>
+    <string name="title_position_format">Format położenia</string>
+    <string name="title_position_precision">Dokładność położenia</string>
+    <string name="title_position_settings">Ustawienia położenia</string>
+    <string name="title_rotation_vector">Wektor obrotu</string>
+    <string name="title_safety">Bezpieczeństwo</string>
+    <string name="title_satellite_filter">Filtruj satelity</string>
+    <string name="title_save_location">Zapisz lokalizację</string>
+    <string name="title_screen_editor">Edytuj ekran</string>
+    <string name="title_screen_layout">Układ ekranu</string>
+    <string name="title_screen_orientation">Orientacja ekranu</string>
+    <string name="title_sensor_accuracy">Dokładność czujnika</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="title_share">Udostępnij</string>
+    <string name="title_share_location">Udostępnij lokalizację…</string>
+    <string name="title_short_press_behaviour">Krótkie naciśnięcie</string>
+    <string name="title_speed_settings">Ustawienia prędkości</string>
+    <string name="title_speed_units">Jednostki prędkości</string>
+    <string name="title_speedometer_limit">Limit prędkościomierza</string>
+    <string name="title_speedometer_settings">Ustawienia prędkościomierza</string>
+    <string name="title_stop_navigation">Zatrzymać nawigację?</string>
+    <string name="title_time_format">Format czasu</string>
+    <string name="title_timer_format">Format czasomierza</string>
+    <string name="title_trial_ended">Okres próbny wygasł</string>
+</resources>
